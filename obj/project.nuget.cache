@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNU0fV8IYGb6zLS5swvaP1mVPE38W082A2jLlxwUV3AqvsTf3t5DAdsN7jXLscJB+T8+gXlPKkptGZGwxxqgRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KRVC\\RiderProjects\\Snake_Final\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KRVC\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\KRVC\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\KRVC\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\KRVC\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\KRVC\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\KRVC\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
